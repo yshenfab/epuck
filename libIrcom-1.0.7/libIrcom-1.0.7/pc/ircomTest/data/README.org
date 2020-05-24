@@ -1,0 +1,13 @@
+#+TITLE: e-puck range & bearing exp. data
+
+* Intro
+- 5 sets of data, 200 records per set
+- turing radius: ~10cm
+- IR sensor 3 and 4 are blocked (not in visual range, see )
+  data received from sensor 3 and 4 are recorded as -2 (see dataProcess.py)
+- For data transmission error, all data are recorded as -1
+* Exp Setup
+| e-puck | A       | B        |
+|--------+---------+----------|
+| role   | emitter | receiver |
+| motion | cycling | still    |

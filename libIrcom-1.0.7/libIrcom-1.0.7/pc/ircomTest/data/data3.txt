@@ -1,0 +1,202 @@
+==== READY - IR TESTING ====
+
+==== RECEIVER ====
+
+Receive successful : 231  - distance=11.027142 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 232  - distance=12.098033 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive failed 
+Receive successful : 236  - distance=13.693964 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 237  - distance=14.387749 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive successful : 239  - distance=15.394510 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 240  - distance=15.326233 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 241  - distance=14.030424 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 245  - distance=14.637297 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 247  - distance=15.223815 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 248  - distance=14.030424 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 249  - distance=13.125057 	 direction=3.665191 	 receivingSensor=3
+Receive failed 
+Receive successful : 251  - distance=12.081588 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 252  - distance=11.722619 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 253  - distance=11.545113 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 254  - distance=12.443394 	 direction=3.665191 	 receivingSensor=3
+Receive failed 
+Receive successful : 0  - distance=12.410502 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 1  - distance=11.409545 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 2  - distance=10.923134 	 direction=4.712389 	 receivingSensor=2
+Receive failed 
+Receive successful : 5  - distance=10.451733 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 6  - distance=9.929972 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 7  - distance=9.798185 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 8  - distance=9.542142 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 9  - distance=9.068321 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 10  - distance=9.226173 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 11  - distance=9.081260 	 direction=5.986479 	 receivingSensor=0
+Receive failed 
+Receive successful : 13  - distance=9.817012 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 14  - distance=9.730409 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 15  - distance=10.090154 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 16  - distance=10.494271 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 17  - distance=9.572265 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 19  - distance=11.009760 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 20  - distance=11.218343 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 21  - distance=11.374781 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 22  - distance=11.709940 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 23  - distance=12.032250 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 25  - distance=13.078954 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 26  - distance=13.855567 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 28  - distance=12.767835 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 29  - distance=12.578552 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive failed 
+Receive successful : 32  - distance=14.438795 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 35  - distance=12.344719 	 direction=3.665191 	 receivingSensor=3
+Receive failed 
+Receive successful : 40  - distance=12.725772 	 direction=3.665191 	 receivingSensor=3
+Receive failed 
+Receive successful : 43  - distance=11.035832 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 44  - distance=10.019256 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 45  - distance=10.727420 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 46  - distance=10.690723 	 direction=4.712389 	 receivingSensor=2
+Receive failed 
+Receive successful : 48  - distance=9.621214 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 49  - distance=9.730409 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 50  - distance=9.753001 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 51  - distance=9.628744 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 52  - distance=9.013979 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 53  - distance=9.078672 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 55  - distance=9.579795 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 56  - distance=9.034681 	 direction=0.296706 	 receivingSensor=7
+Receive failed 
+Receive successful : 58  - distance=10.239039 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 59  - distance=9.613684 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 60  - distance=9.523315 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 61  - distance=10.605099 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 62  - distance=11.963522 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 64  - distance=11.452999 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive failed 
+Receive failed 
+Receive successful : 69  - distance=12.662678 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 70  - distance=12.147370 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 71  - distance=12.725772 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 72  - distance=12.915054 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 73  - distance=12.872992 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 77  - distance=13.936369 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 78  - distance=12.704741 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 79  - distance=12.048696 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 80  - distance=11.532434 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 81  - distance=12.048696 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 82  - distance=12.578552 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 83  - distance=13.936369 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 84  - distance=15.428650 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 85  - distance=12.180262 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 86  - distance=11.018451 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 88  - distance=10.727420 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 89  - distance=10.507241 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 90  - distance=10.556170 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 91  - distance=9.515784 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 92  - distance=9.670163 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 93  - distance=9.602387 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 94  - distance=9.688990 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 95  - distance=9.063146 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 96  - distance=9.091611 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 98  - distance=9.598621 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 99  - distance=9.975156 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 100  - distance=9.545907 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 101  - distance=10.253219 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 102  - distance=9.560968 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 103  - distance=10.387924 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 104  - distance=11.322635 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 26  - distance=11.659224 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 106  - distance=11.114052 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive successful : 109  - distance=12.936086 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 110  - distance=12.662678 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 111  - distance=14.234610 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 112  - distance=13.240318 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 113  - distance=12.788866 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 114  - distance=12.295382 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 118  - distance=14.183563 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 120  - distance=13.401683 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 121  - distance=12.048696 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 123  - distance=11.735298 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 124  - distance=12.246045 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 251  - distance=12.476285 	 direction=3.665191 	 receivingSensor=3
+Receive failed 
+Receive failed 
+Receive successful : 130  - distance=10.104333 	 direction=4.712389 	 receivingSensor=2
+Receive failed 
+Receive successful : 133  - distance=9.538377 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 134  - distance=9.606153 	 direction=5.410521 	 receivingSensor=1
+Receive failed 
+Receive successful : 136  - distance=9.542142 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 137  - distance=9.929972 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 138  - distance=9.911145 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 139  - distance=9.677694 	 direction=5.986479 	 receivingSensor=0
+Receive failed 
+Receive successful : 141  - distance=9.508254 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 142  - distance=9.542142 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 144  - distance=10.359566 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 145  - distance=10.203590 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 146  - distance=10.654027 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 147  - distance=11.070597 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 148  - distance=11.811373 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 149  - distance=11.044524 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive successful : 151  - distance=12.459840 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 152  - distance=12.163816 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive successful : 154  - distance=13.976769 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 155  - distance=13.355578 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 157  - distance=12.081588 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 158  - distance=12.557521 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 159  - distance=12.641646 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 160  - distance=13.102006 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 161  - distance=14.132517 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 162  - distance=13.855567 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 164  - distance=11.773335 	 direction=3.665191 	 receivingSensor=3
+Receive failed 
+Receive failed 
+Receive successful : 169  - distance=13.194214 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 170  - distance=12.361165 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 173  - distance=10.764116 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 174  - distance=10.281578 	 direction=4.712389 	 receivingSensor=2
+Receive successful : 175  - distance=10.654027 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 176  - distance=10.352476 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 177  - distance=9.760531 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 178  - distance=9.579795 	 direction=5.410521 	 receivingSensor=1
+Receive successful : 179  - distance=10.487182 	 direction=5.986479 	 receivingSensor=0
+Receive successful : 180  - distance=9.775593 	 direction=5.986479 	 receivingSensor=0
+Receive failed 
+Receive successful : 183  - distance=10.437553 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 184  - distance=9.692756 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 185  - distance=10.366655 	 direction=0.296706 	 receivingSensor=7
+Receive successful : 186  - distance=10.715187 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 187  - distance=10.373745 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 188  - distance=10.203590 	 direction=0.872665 	 receivingSensor=6
+Receive failed 
+Receive successful : 190  - distance=11.811373 	 direction=0.872665 	 receivingSensor=6
+Receive successful : 191  - distance=11.963522 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 192  - distance=11.183579 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 193  - distance=11.735298 	 direction=1.570796 	 receivingSensor=5
+Receive successful : 134  - distance=13.401683 	 direction=1.570796 	 receivingSensor=5
+Receive failed 
+Receive successful : 198  - distance=12.557521 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 199  - distance=12.098033 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 200  - distance=12.180262 	 direction=2.617994 	 receivingSensor=4
+Receive failed 
+Receive successful : 202  - distance=13.332526 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 203  - distance=13.936369 	 direction=2.617994 	 receivingSensor=4
+Receive successful : 205  - distance=13.217266 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 103  - distance=11.722619 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 207  - distance=11.684582 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 208  - distance=11.070597 	 direction=3.665191 	 receivingSensor=3
+Receive successful : 209  - distance=11.595829 	 direction=3.665191 	 receivingSensor=3

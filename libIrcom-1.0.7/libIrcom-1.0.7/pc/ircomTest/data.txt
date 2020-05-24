@@ -1,0 +1,2289 @@
+==== READY - IR TESTING ====
+
+==== Follower, veloFormation ====
+
+Receive agent 1: distance=18.018776 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 4104 	 4070
+Receive agent 1: distance=15.632757 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -31328 	 -31358
+Receive agent 61: distance=16.041210 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=15.360372 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 20948 	 20871
+Receive agent 1: distance=9.666398 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 29639 	 29591
+Receive agent 1: distance=8.683555 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1298 	 -1355
+Receive agent 1: distance=8.540569 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1299 	 -1354
+Receive agent 1: distance=8.515202 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1299 	 -1354
+Receive agent 1: distance=8.549794 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1298 	 -1354
+Receive agent 1: distance=15.018981 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 17539 	 17464
+Receive agent 1: distance=22.438597 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 4201 	 4159
+Receive agent 21: distance=15.155538 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=15.767674 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 25014 	 24935
+Receive agent 1: distance=13.447787 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 1854 	 1786
+Receive agent 1: distance=9.820777 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1358
+Receive agent 1: distance=9.971391 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.008803 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.057970 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.982687 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 21: distance=18.621801 	 direction=3.665191 	 receivingSensor=3
+Receive agent 1: distance=9.006216 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 20: distance=17.049156 	 direction=3.665191 	 receivingSensor=3
+Receive agent 1: distance=9.975156 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.013979 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.982687 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.006216 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.971391 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 21: distance=18.621801 	 direction=3.665191 	 receivingSensor=3
+Receive agent 1: distance=9.975156 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.982687 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.971391 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.982687 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=9.063146 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.070910 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.104549 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=9.182182 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1296 	 -1356
+Receive agent 1: distance=9.083848 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1297 	 -1356
+Receive agent 1: distance=12.443394 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -8174 	 -8236
+Receive agent 20: distance=9.477184 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=11.557792 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=12.767835 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -8336 	 -8360
+Receive agent 1: distance=11.426927 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -28269 	 -28248
+Receive agent 1: distance=13.532361 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 3017 	 2992
+Receive agent 1: distance=14.387749 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 15720 	 15693
+Receive agent 1: distance=21.641752 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7632 	 -7673
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 21: distance=19.746660 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 1: distance=20.870401 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19086 	 -19126
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 21: distance=21.963917 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 21: distance=20.200634 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=20.870401 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=21.963917 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 1: distance=20.200634 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29032 	 -29070
+Receive agent 21: distance=17.908298 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=20.488485 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -24757 	 -24796
+Receive agent 20: distance=18.818575 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Receive agent 20: distance=18.018776 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=20.488485 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -24757 	 -24796
+Receive agent 1: distance=20.870401 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19086 	 -19126
+Receive agent 1: distance=18.018776 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 4104 	 4070
+Receive agent 21: distance=16.132385 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=13.078954 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -3716 	 -3740
+Receive agent 20: distance=15.835133 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=13.309474 	 direction=5.986479 	 receivingSensor=Receive agent 1: distance=13.078954 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -3716 	 -3740
+Receive agent 21: distance=16.922991 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=16.405909 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=15.223815 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=11.519754 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -26869 	 -26891
+Receive agent 1: distance=11.348708 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29409 	 -29431
+Receive agent 1: distance=11.374781 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29022 	 -29044
+Receive agent 20: distance=15.257955 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=16.922991 	 direction=5.410521 	 receivingSensor=1
+Receive agent 20: distance=15.053121 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=9.673929 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 29714 	 29666
+Receive agent 1: distance=10.629562 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -26282 	 -26335
+Receive agent 1: distance=8.668564 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1298 	 -1355
+Receive agent 1: distance=8.584388 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1298 	 -1354
+Receive agent 1: distance=9.166656 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 3723 	 3706
+Receive agent 1: distance=7.728444 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=14.438795 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=15.326233 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=9.726644 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 30240 	 30192
+Receive agent 1: distance=8.553254 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1298 	 -1354
+Receive agent 20: distance=15.360372 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.399014 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.402113 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.405211 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.018981 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.403146 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.189676 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=14.489841 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=12.578552 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=13.378631 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.525579 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1299 	 -1354
+Receive agent 1: distance=8.402629 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.439816 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.407278 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.400563 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.409860 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=14.788172 	 direction=4.712389 	 receivingSensReceive agent 1: distance=8.404696 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.053121 	 direction=4.712389 	 receivingSensor=2
+Receive agent 61: distance=15.902591 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.398498 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.401596 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.397465 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.851908 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=8.941850 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=13.532361 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=14.939047 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.956841 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.189676 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=14.939047 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.960299 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=14.489841 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=14.336702 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.954535 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.189676 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.630512 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1298 	 -1354
+Receive agent 1: distance=8.968371 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.017339 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.959146 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.996046 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.956841 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.962606 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=14.285656 	 direction=4.712389 	 receivingSensor=2
+Receive agent 21: distance=15.087259 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.959146 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=8.959146 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.326233 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=14.637297 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.960299 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 2Receive agent 21: distance=15.326233 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=14.939047 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.956841 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.394510 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.622440 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=9.453895 	 direction=4.712389 	 receivingSensor=2
+Receive agent 21: distance=8.966065 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=8.936085 	 direction=0Receive agent 20: distance=9.929972 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=9.050207 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=9.658867 	 direction=4.712389 	 receivingSensor=2
+Receive agent 21: distance=9.545907 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=9.651337 	 direction=4.712389 	 receivingSensor=2Receive agent 1: distance=12.620615 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10522 	 -10546
+Receive agent 1: distance=9.378850 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 6875 	 6857
+Receive agent 1: distance=9.704052 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 11704 	 11686
+Receive agent 21: distance=16.497082 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=15.970049 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -26319 	 -26350
+Receive agent 1: distance=15.018981 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 25093 	 25065
+Receive agent 20: distance=16.782461 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=13.895968 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 6328 	 6258
+Receive agent 21: distance=15.462789 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=10Receive agent 1: distance=10.617331 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 1: distance=10.641795 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 1: distance=10.605099 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 1: distance=10.617331 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 1: distance=10.690723 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1291 	 -1361
+Receive agent 1: distance=10.012166 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1294 	 -1359
+Receive agent 1: distance=10.654027 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 20: distance=15.394510 	 direction=4.712389 	 receivingSensor=2
+Receive agent 0: distance=10.345386 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=10.666259 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 1: distance=10.641795 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 1: distance=10.629562 	 direction=4.712389 	 receivingSensor=2
+Setting speed: -1292 	 -1361
+Receive agent 21: distance=8.394365 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=12.032250 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19259 	 -19282
+Receive agent 1: distance=11.470381 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -27603 	 -27624
+Receive agent 1: distance=11.621187 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -25363 	 -25385
+Receive agent 1: distance=12.048696 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19015 	 -19037
+Receive agent 1: distance=13.572762 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 3617 	 3592
+Receive agent 1: distance=12.394056 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -13886 	 -13909
+Receive agent 1: distance=14.183563 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 12688 	 12661
+Receive agent 1: distance=21.641752 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7632 	 -7673
+Receive agent 1: distance=13.855567 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 7817 	 7791
+Receive agent 1: distance=13.263371 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -977 	 -1002
+Receive agent 21: distance=14.183563 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=12.213153 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16573 	 -16595
+Receive agent 1: distance=12.180262 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17061 	 -17084
+Receive agent 1: distance=12.163816 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17305 	 -17328
+Receive agent 21: distance=15.326233 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=12.180262 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17061 	 -17084
+Receive agent 1: distance=12.163816 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17305 	 -17328
+Receive agent 20: distance=14.132517 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=15.257955 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=12.163816 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17305 	 -17328
+Receive agent 1: distance=12.196708 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16817 	 -16840
+Receive agent 1: distance=12.213153 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16573 	 -16595
+Receive agent 1: distance=12.196708 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16817 	 -16840
+Receive agent 1: distance=12.180262 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17061 	 -17084
+Receive agent 1: distance=12.130924 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17794 	 -17816
+Receive agent 1: distance=12.229599 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16328 	 -16351
+Receive agent 20: distance=14.939047 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=14.438795 	 direction=5.410521 	 receivingSensor=1
+Receive agent 20: distance=14.030424 	 direction=5.410521 	 receivingSensor=1
+Receive agent 20: distance=14.637297 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=12.213153 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16573 	 -16595
+Receive agent 1: distance=12.180262 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17061 	 -17084
+Receive agent 1: distance=12.163816 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17305 	 -17328
+Receive agent 21: distance=13.532361 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=11.545113 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -26493 	 -26514
+Receive agent 1: distance=11.532434 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -26681 	 -26703
+Receive agent 1: distance=12.130924 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -1779Receive agent 1: distance=12.147370 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17549 	 -17572
+Receive agent 1: distance=12.196708 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16817 	 -16840
+Receive agent 1: distance=12.180262 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17061 	 -17084
+Receive agent 1: distance=12.130924 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -17794 	 -17816
+Receive agent 1: distance=12.098033 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -18282 	 -18305
+Receive agent 21: distance=15.189676 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=15.121398 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=12.114479 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -18038 	 -18061
+Receive agent 1: distance=8.468222 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.567635 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.549456 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.614479 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.630560 	 direction=5.410521 	 receivingS
+Receive agent 21: distance=8.789640 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=8.153688 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=9.006216 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 1341 	 1324
+Receive agent 1: distance=10.751884 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -25060 	 -25114
+Receive agent 1: distance=11.444308 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -18148 	 -18205
+Receive agent 1: distance=12.295382 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -15352 	 -15375
+Receive agent 1: distance=12.872992 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -6774 	 -6798
+Receive agent 1: distance=12.048696 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -12114 	 -12174
+Receive agent 1: distance=13.055902 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -2059 	 -2124
+Receive agent 1: distance=15.496927 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 32191 	 32162
+Receive agent 21: distance=14.234610 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=13.148109 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=13.613163 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 4217 	 4192
+Receive agent 1: distance=11.409545 	 direction=5.410521 	 receivingSensor=1
+Setting speed: -18495 	 -18552
+Receive agent 1: distance=9.560968 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 28586 	 28539
+Receive agent 1: distance=7.511701 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.902591 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=7.645243 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=15.496927 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=7.650137 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.653283 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.719704 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.708168 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.719355 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=21.963917 	 direction=4.712389 	 receivingSensor=2
+Receive agent 21: distance=20.870401 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=7.719704 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.730192 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 1: distance=7.705022 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=22.438597 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=7.731940 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=22.438597 	 direction=4.712389 	 receivingSensor=2
+Receive agent 21: distance=20.200634 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=7.721802 	 direction=5.410521 	 receivingSensor=1
+Arrive destination, stop!
+Receive agent 21: distance=22.438597 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=22.438597 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 26076 	 25963
+Receive agent 1: distance=17.636190 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -1578 	 -1611
+Receive agent 21: distance=18.018776 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=16.641933 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16342 	 -16373
+Receive agent 1: distance=16.501406 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -18429 	 -18460
+Receive agent 1: distance=16.501406 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -18429 	 -18460
+Receive agent 21: distance=16.501406 	 direction=5.410521 	 receivingSensor=1
+Receive agent 20: distance=17.908298 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=18.018776 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=16.782461 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -14255 	 -14287
+Receive agent 1: distance=16.041210 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -25263 	 -25293
+Receive agent 21: distance=16.782461 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=16.922991 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -12168 	 -12200
+Receive agent 20: distance=17.199940 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=16.641933 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16342 	 -16373
+Receive agent 1: distance=16.041210 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -25263 	 -25293
+Receive agent 20: distance=17.199940 	 direction=5.410521 	 receivingSensor=1
+Receive agent 21: distance=17.908298 	 direction=5.410521 	 receivingSensor=1
+Receive agent 20: distance=17.350723 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=16.641933 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16342 	 -16373
+Receive agent 21: distance=16.501406 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=16.501406 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -18429 	 -18460
+Receive agent 1: distance=16.641933 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16342 	 -16373
+Receive agent 1: distance=16.641933 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -16342 	 -16373
+Receive agent 1: distance=17.049156 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10295 	 -10327
+Receive agent 21: distance=8.517508 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=13.493891 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 2446 	 2421
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 1: distance=20.200634 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29032 	 -29070
+Receive agent 20: distance=13.078954 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 20: distance=13.734365 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=20.200634 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29032 	 -29070
+Receive agent 1: distance=20.200634 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29032 	 -29070
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 1: distance=20.870401 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19086 	 -19126
+Receive agent 1: distance=20.870401 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19086 	 -19126
+Receive agent 1: distance=20.200634 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29032 	 -29070
+Receive agent 1: distance=22.109650 	 direction=5.410521 	 receivingSensor=1
+Setting speed: 22792 	 22681
+Receive agent 20: distance=13.263371 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=13.355578 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=13.286423 	 direcReceive agent 1: distance=19.005018 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 18749 	 18713
+Receive agent 20: distance=13.148109 	 direction=4.712389 	 receivingSensor=2
+Receive agent 21: distance=14.489841 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=13.976769 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=17.908298 	 directReceive agent 1: distance=13.217266 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -1662 	 -1687
+Receive agent 1: distance=13.217266 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -1662 	 -1687
+Receive agent 20: distance=15.394510 	 direction=3.665191 	 receivingSensor=3
+Receive agent 20: distance=15.496927 	 direction=3.665191 	 receivingSensor=3
+Receive agent 1: distance=13.217266 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -1662 	 -1687
+Receive agent 1: distance=13.286423 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -635 	 -660
+Receive agent 1: distance=13.263371 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -977 	 -1002
+Receive agent 21: distance=15.970049 	 direction=3.665191 	 receivingSensor=3
+ReceiveReceive agent 1: distance=13.286423 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -635 	 -660
+Receive agent 1: distance=13.217266 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -1662 	 -1687
+Receive agent 1: distance=13.171162 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2346 	 -2371
+Receive agent 1: distance=13.217266 	 direction=5.986479 	 receivingReceive agent 1: distance=13.895968 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 8417 	 8391
+Receive agent 1: distance=12.978148 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -5213 	 -5237
+Receive agent 20: distance=15.767674 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=15.835133 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=12.492731 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -12421 	 -12444
+Receive agent 20: distance=16.405909 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=16.132385 	 direction=4.712389 	 receivingSensor=2
+Receive agent 1: distance=11.235725 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -31087 	 -31108
+Receive agent 1: distance=15.292093 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 29149 	 29120
+Receive agent 1: distance=14.387749 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 15720 	 15693
+Receive agent 1: distance=20.870401 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19086 	 -19126
+Receive agent 21: distance=15.360372 	 direction=4.712389 	 receivingSensor=2
+Receive agent 20: distance=15.565299 	 direction=3.665191 	 receivingSensor=3
+Receive agent 1: distance=17.199940 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -8056 	 -8088
+Receive agent 1: distance=11.950843 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -20468 	 -20490
+Receive agent 1: distance=11.209652 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -31474 	 -31495
+Receive agent 1: distance=19.363441 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 24072 	 24035
+Receive agent 1: distance=15.565299 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -32330 	 -32359
+Receive agent 1: distance=17.199940 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -8056 	 -8088
+Receive agent 1: distance=17.908298 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 2463 	 2429
+Receive agent 1: distance=20.870401 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -19086 	 -19126
+Receive agent 1: distance=16.922991 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -12168 	 -12200
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Receive agent 1: distance=8.546335 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.535957 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.533651 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.537110 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.550947 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.539416 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.535957 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.541722 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.533651 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.547488 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.537110 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.552101 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.538263 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.541722 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.540569 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.544029 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.535957 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.544029 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.549794 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.544029 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.544029 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.541722 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.546335 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.553254 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.549794 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.936085 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 300 	 283
+Receive agent 1: distance=8.654727 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.532498 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=9.135603 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 3262 	 3245
+Receive agent 1: distance=8.202753 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10590 	 -10605
+Receive agent 1: distance=21.434443 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 15943 	 16051
+Receive agent 1: distance=13.148109 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -1204 	 -1138
+Receive agent 1: distance=12.295382 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9713 	 -9651
+Receive agent 1: distance=12.361165 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9056 	 -8995
+Receive agent 1: distance=12.311828 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9549 	 -9487
+Receive agent 1: distance=12.311828 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9549 	 -9487
+Receive agent 1: distance=12.344719 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9220 	 -9159
+Receive agent 1: distance=12.394056 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8728 	 -8666
+Receive agent 1: distance=12.394056 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8728 	 -8666
+Receive agent 1: distance=12.394056 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8728 	 -8666
+Receive agent 1: distance=12.278936 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9877 	 -9816
+Receive agent 1: distance=12.361165 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9056 	 -8995
+Receive agent 1: distance=12.344719 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9220 	 -9159
+Receive agent 1: distance=12.328274 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9385 	 -9323
+Receive agent 1: distance=12.328274 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9385 	 -9323
+Receive agent 1: distance=12.394056 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8728 	 -8666
+Receive agent 1: distance=12.344719 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9220 	 -9159
+Receive agent 1: distance=12.295382 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9713 	 -9651
+Receive agent 1: distance=12.394056 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8728 	 -8666
+Receive agent 1: distance=12.377611 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8892 	 -8830
+Receive agent 1: distance=12.311828 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9549 	 -9487
+Receive agent 1: distance=12.476285 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -7908 	 -7845
+Receive agent 21: distance=15.902591 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=12.278936 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -9877 	 -9816
+Receive agent 21: distance=17.500135 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=12.443394 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8236 	 -8174
+Receive agent 1: distance=11.532434 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17326 	 -17268
+Receive agent 1: distance=19.746660 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -898 	 -799
+Receive agent 1: distance=15.087259 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 26079 	 26107
+Receive agent 1: distance=15.087259 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 26079 	 26107
+Receive agent 21: distance=15.155538 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=18.259508 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 7644 	 7678
+Receive agent 61: distance=16.132385 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=15.565299 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -32359 	 -32330
+Receive agent 1: distance=15.565299 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -32359 	 -32330
+Receive agent 1: distance=15.632757 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -31358 	 -31328
+Receive agent 1: distance=15.700215 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -30356 	 -30327
+Receive agent 1: distance=15.700215 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -30356 	 -30327
+Receive agent 1: distance=17.500135 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -3598 	 -3631
+Receive agent 21: distance=21.963917 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=20.870401 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=15.565299 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -32359 	 -32330
+Receive agent 1: distance=16.497082 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -18524 	 -18493
+Receive agent 1: distance=15.565299 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -32359 	 -32330
+Receive agent 21: distance=21.963917 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=15.700215 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -30356 	 -30327
+Receive agent 1: distance=15.155538 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 27093 	 27121
+Receive agent 21: distance=17.049156 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=19.363441 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.237357 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10092 	 -10077
+Receive agent 1: distance=8.231159 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10184 	 -10169
+Receive agent 1: distance=8.236841 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10099 	 -10084
+Receive agent 1: distance=17.199940 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26310 	 -26224
+Receive agent 21: distance=10.019256 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=10.359566 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=14.234610 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=21.641752 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=17.908298 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.760656 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -23314 	 -23292
+Receive agent 1: distance=13.217266 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -1687 	 -1662
+Receive agent 1: distance=16.641933 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -16374 	 -16342
+Receive agent 1: distance=17.500135 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -3631 	 -3598
+Receive agent 1: distance=17.500135 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -3631 	 -3598
+Receive agent 1: distance=17.350723 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -5850 	 -5817
+Receive agent 1: distance=17.199940 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -8088 	 -8056
+Receive agent 1: distance=11.400853 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -28657 	 -28635
+Receive agent 1: distance=11.735298 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -23691 	 -23669
+Receive agent 1: distance=17.049156 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10327 	 -10295
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=13.734365 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 5991 	 6017
+Receive agent 1: distance=22.328947 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 2531 	 2573
+Receive agent 1: distance=20.488485 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -24796 	 -24758
+Receive agent 1: distance=19.005018 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 18713 	 18749
+Receive agent 1: distance=15.292093 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 20189 	 20266
+Receive agent 1: distance=11.018451 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22454 	 -22399
+Receive agent 1: distance=11.426927 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18378 	 -18321
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 21: distance=19.363441 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 1: distance=11.426927 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18378 	 -18321
+Receive agent 1: distance=11.340016 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -19246 	 -19189
+Receive agent 1: distance=10.727420 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -25358 	 -25305
+Receive agent 1: distance=11.444308 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18205 	 -18148
+Receive agent 1: distance=11.479073 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17858 	 -17801
+Receive agent 1: distance=11.470381 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17945 	 -17888
+Receive agent 1: distance=11.461690 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18032 	 -17974
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 20: distance=17.500135 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 20: distance=17.500135 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.409545 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18552 	 -18495
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 1: distance=10.751884 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -25114 	 -25061
+Receive agent 1: distance=11.409545 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18552 	 -18495
+Receive agent 1: distance=11.357399 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -19072 	 -19016
+Receive agent 21: distance=16.041210 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 20: distance=16.782461 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.400853 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18639 	 -18582
+Receive agent 1: distance=11.374781 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18899 	 -18842
+Receive agent 1: distance=11.374781 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18899 	 -18842
+Receive agent 1: distance=13.532361 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1371 	 -1282
+Receive agent 21: distance=14.183563 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.734365 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.400853 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18639 	 -18582
+Receive agent 1: distance=11.374781 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18899 	 -18842
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 1: distance=10.568402 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26945 	 -26892
+Receive agent 1: distance=11.435617 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18292 	 -18235
+Receive agent 1: distance=10.617331 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26457 	 -26404
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 21: distance=12.015804 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=13.470840 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 20: distance=13.009797 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=11.027142 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.519474 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27433 	 -27381
+Receive agent 1: distance=11.409545 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18552 	 -18495
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 1: distance=11.418236 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18465 	 -18408
+Receive agent 20: distance=16.132385 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.788580 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24748 	 -24694
+Receive agent 1: distance=11.452999 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18118 	 -18061
+Receive agent 21: distance=15.018981 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.392162 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18725 	 -18669
+Receive agent 1: distance=11.444308 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18205 	 -18148
+Receive agent 20: distance=16.223558 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.543938 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27189 	 -27137
+Receive agent 20: distance=15.632757 	 direction=1.570796 	 receivingSensor=5
+Receive agent 0: distance=11.786015 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=14.939047 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=14.030424 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=9.324508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 26179 	 26225
+Receive agent 1: distance=10.161052 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31010 	 -30959
+Receive agent 1: distance=8.560172 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.580929 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.511742 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=9.244287 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 25379 	 25425
+Receive agent 20: distance=14.132517 	 direction=1.570796 	 receivingSensReceive agent 1: distance=9.277928 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1357 	 -1296
+Receive agent 1: distance=9.311568 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1357 	 -1296
+Receive agent 1: distance=9.805716 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 13195 	 13213
+Receive agent 20: distance=13.976769 	 direction=1.570796 	 receivingReceive agent 1: distance=8.884195 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.572762 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.916482 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1297
+Receive agent 1: distance=8.791946 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.887654 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1297
+Receive agent 1: distance=8.639737 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.681249 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.613163 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.752741 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.707769 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.572762 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.708923 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.653563 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.768885 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.707769 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.532361 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.706616 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.704310 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=14.489841 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.706616 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.714688 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.704310 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.703157 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.703157 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.706616 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.742363 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=14.438795 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.711229 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.703157 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.693964 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.718148 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=14.387749 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.705463 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=14.387749 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.696239 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=9.515784 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 28088 	 28135
+Receive agent 20: distance=9.352972 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=13.078954 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -3740 	 -3716
+Receive agent 20: distance=8.515202 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=9.881022 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=9.790654 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=9.756766 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=10.118513 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=17.049156 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10327 	 -10295
+Receive agent 20: distance=9.696521 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=9.632510 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=22.438597 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 4159 	 4201
+Receive agent 1: distance=13.332526 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 25 	 50
+Receive agent 1: distance=10.507241 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 23611 	 23631
+Receive agent 1: distance=10.605099 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 25064 	 25084
+Receive agent 1: distance=11.900126 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21243 	 -21221
+Receive agent 1: distance=10.345386 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 21208 	 21227
+Receive agent 1: distance=9.530846 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 9114 	 9131
+Receive agent 1: distance=10.295757 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 20471 	 20490
+Receive agent 1: distance=11.684582 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -24444 	 -24422
+Receive agent 1: distance=9.647572 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 10847 	 10865
+Receive agent 1: distance=10.480092 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 23208 	 23228
+Receive agent 1: distance=18.259508 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 7644 	 7678
+Receive agent 20: distance=15.257955 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=15.155538 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 18827 	 18902
+Receive agent 21: distance=14.788172 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.132692 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31293 	 -31242
+Receive agent 1: distance=10.068884 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31929 	 -31879
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.813045 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24504 	 -24450
+Receive agent 1: distance=10.825276 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24382 	 -24328
+Receive agent 1: distance=10.111423 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31505 	 -31455
+Receive agent 1: distance=10.837508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24260 	 -24206
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 21: distance=16.497082 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=15.121398 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.849741 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24138 	 -24084
+Receive agent 1: distance=10.861973 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24016 	 -23962
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 1: distance=13.424735 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 1394 	 1419
+Receive agent 1: distance=14.387749 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 15693 	 15720
+Receive agent 1: distance=9.303805 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 25973 	 26019
+Receive agent 20: distance=12.851960 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.844990 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.850755 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.859980 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.847296 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 21: distance=12.894023 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.843836 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=12.536489 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.854214 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.884195 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.851908 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.855368 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.846143 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 21: distance=12.641646 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 20: distance=13.401683 	 direction=1.570796 	 receivingSensor=5
+Receive agent 0: distance=8.032833 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.866899 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.865746 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.854214 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.856521 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.861133 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 21: distance=13.125057 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.470840 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.857674 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.843836 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.864593 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.846143 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.841530 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.885348 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1297
+Receive agent 1: distance=8.849602 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.810396 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=9.952564 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 32446 	 32496
+Receive agent 1: distance=8.502517 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.577469 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.564785 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=9.026917 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 23210 	 23255
+Receive agent 20: distance=8.135612 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=9.621214 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 10456 	 10473
+Receive agent 1: distance=10.898669 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 29423 	 29443
+Receive agent 1: distance=10.751884 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 27244 	 27264
+Receive agent 21: distance=22.219297 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=21.641752 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=11.836731 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -22162 	 -22185
+Receive agent 1: distance=12.492731 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -12444 	 -12421
+Receive agent 1: distance=10.246129 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 19734 	 19753
+Receive agent 1: distance=13.009797 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -4767 	 -4743
+Receive agent 1: distance=10.473002 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 23103 	 23122
+Receive agent 1: distance=11.140124 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -32528 	 -32507
+Receive agent 1: distance=11.001069 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 30943 	 30964
+Receive agent 1: distance=11.383471 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -28915 	 -28893
+Receive agent 1: distance=11.114052 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 32621 	 32642
+Receive agent 1: distance=11.079288 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 32105 	 32126
+Receive agent 1: distance=11.988880 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19926 	 -19903
+Receive agent 1: distance=12.032250 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19282 	 -19259
+Receive agent 1: distance=10.345386 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 21208 	 21227
+Receive agent 1: distance=10.751884 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 27244 	 27264
+Receive agent 1: distance=14.336702 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 14962 	 14935
+Receive agent 1: distance=15.632757 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -31358 	 -31328
+Receive agent 20: distance=13.693964 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.734365 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=15.292093 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 29120 	 29149
+Receive agent 1: distance=11.836731 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -14289 	 -14230
+Receive agent 1: distance=10.437553 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -28251 	 -28199
+Receive agent 1: distance=10.366655 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -28958 	 -28906
+Receive agent 1: distance=10.253219 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30090 	 -30039
+Receive agent 1: distance=9.508254 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 28013 	 28060
+Receive agent 1: distance=9.512019 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 28050 	 28097
+Receive agent 1: distance=8.301400 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.377322 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7998 	 -8013
+Receive agent 1: distance=8.378355 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7983 	 -7998
+Receive agent 1: distance=8.378872 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7975 	 -7990
+Receive agent 1: distance=8.377322 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7998 	 -8013
+Receive agent 1: distance=8.380421 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7952 	 -7967
+Receive agent 1: distance=8.383520 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7906 	 -7921
+Receive agent 1: distance=8.387136 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7852 	 -7868
+Receive agent 1: distance=8.416058 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7423 	 -7438
+Receive agent 1: distance=8.377322 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -7998 	 -8013
+Receive agent 1: distance=22.328947 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 2531 	 2573
+Receive agent 1: distance=13.936369 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 6661 	 6731
+Receive agent 20: distance=15.053121 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.507241 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27555 	 -27503
+Receive agent 1: distance=11.461690 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -18032 	 -17974
+Receive agent 1: distance=10.556170 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27067 	 -27014
+Receive agent 20: distance=15.053121 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 20: distance=15.223815 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.487763 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17771 	 -17714
+Receive agent 1: distance=11.496454 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17685 	 -17627
+Receive agent 1: distance=10.629562 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26335 	 -26282
+Receive agent 20: distance=15.018981 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=15.565299 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.580634 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26823 	 -26770
+Receive agent 21: distance=15.257955 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.543938 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27189 	 -27137
+Receive agent 20: distance=15.018981 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.556170 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27067 	 -27014
+Receive agent 1: distance=10.568402 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26945 	 -26892
+Receive agent 1: distance=10.519474 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -27433 	 -27381
+Receive agent 1: distance=10.629562 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26335 	 -26282
+Receive agent 1: distance=13.855567 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 5855 	 5924
+Receive agent 1: distance=12.476285 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -12689 	 -12665
+Receive agent 20: distance=12.081588 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=11.279180 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -30463 	 -30442
+Receive agent 1: distance=10.125603 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 17945 	 17964
+Receive agent 1: distance=10.366655 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 21524 	 21543
+Receive agent 1: distance=21.641752 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -7673 	 -7632
+Receive agent 21: distance=13.653563 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=20.200634 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -29070 	 -29032
+Receive agent 21: distance=13.572762 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.078954 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=12.599584 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=21.963917 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -2889 	 -2848
+Receive agent 1: distance=20.870401 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19126 	 -19086
+Receive agent 21: distance=13.613163 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=20.200634 	 direction=0.296706 	 receivingSensor=7
+SetReceive agent 21: distance=14.489841 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=14.336702 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=14.285656 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=21.963917 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -2889 	 -2848
+Receive agent 21: distance=15.428650 	 direcSetting speed: -2889 	 -2848
+Receive agent 21: distance=15.970049 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.767674 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.565299 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.632757 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=16.641933 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.700215 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=20.870401 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19126 	 -19086
+Receive agent 1: distance=20.870401 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19126 	 -19086
+Receive agent 1: distance=20.200634 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -29070 	 -29032
+Receive agent 20: distance=15.632757 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.087259 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=20.870401 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19126 	 -19086
+Receive agent 21: distance=15.018981 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.565299 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=15.902591 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=20.200634 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -29070 	 -29032
+Receive agent 1: distance=21.434443 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10751 	 -10710
+Receive agent 1: distance=20.870401 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19126 	 -19086
+Receive agent 21: distance=15.970049 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=16.501406 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=21.963917 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -2889 	 -2848
+Receive agent 21: distance=17.350723 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=22.000000 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 21586 	 21697
+Receive agent 20: distance=15.970049 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=17.500135 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -3631 	 -3598
+Receive agent 1: distance=12.641646 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -10233 	 -10210
+Receive agent 20: distance=13.378631 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.608508 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -25551 	 -25573
+Receive agent 21: distance=13.171162 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=17.636190 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=16.223558 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=17.908298 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=17.350723 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=20.488485 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=19.363441 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=15.053121 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 25572 	 25600
+Receive agent 1: distance=17.500135 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -3631 	 -3598
+Receive agent 20: distance=15.700215 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=22.438597 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 4159 	 4201
+Receive agent 1: distance=22.438597 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 4159 	 4201
+Receive agent 1: distance=14.939047 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 23878 	 23906
+Receive agent 1: distance=9.177007 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 24707 	 24753
+Receive agent 1: distance=8.598225 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -4734 	 -4718
+Receive agent 1: distance=8.982209 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.017855 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.978749 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.971830 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=13.148109 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.977596 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=13.572762 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.987974 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=14.387749 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.930319 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=13.653563 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=13.693964 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=12.872992 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=9.417665 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 7433 	 7451
+Receive agent 21: distance=20.200634 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=21.641752 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.764116 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 27445 	 27425
+Receive agent 1: distance=10.629562 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 25427 	 25447
+Receive agent 1: distance=13.401683 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 1052 	 1077
+Receive agent 1: distance=11.887447 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21432 	 -21409
+Receive agent 1: distance=10.054705 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 16892 	 16911
+Receive agent 61: distance=12.725772 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=11.722619 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.779263 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=12.978148 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=12.098033 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=8.794252 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.550947 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=9.342622 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 26360 	 26406
+Receive agent 1: distance=8.535957 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.500000 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21040 	 -21026
+Receive agent 1: distance=7.996576 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -13667 	 -13652
+Receive agent 20: distance=12.957117 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=12.015804 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=7.985739 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -13828 	 -13813
+Receive agent 20: distance=12.180262 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=8.696239 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=12.410502 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=10.568402 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=9.756766 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 12468 	 12486
+Receive agent 1: distance=12.515458 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -7517 	 -7454
+Receive agent 20: distance=10.373745 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=11.227035 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=10.727420 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.647572 	 direction=1.570796 	 receivingSensor=5
+ReceivReceive agent 1: distance=12.361165 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -14398 	 -14375
+Receive agent 1: distance=11.900126 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21243 	 -21221
+Receive agent 20: distance=12.578552 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.009797 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=13.493891 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 2421 	 2446
+Receive agent 21: distance=21.434443 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=21.434443 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10710 	 -10751
+Receive agent 1: distance=20.200634 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -29032 	 -29070
+Receive agent 20: distance=20.200634 	 direction=5.410521 	 receivingSensor=1
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 1: distance=22.328947 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 2573 	 2531
+Receive agent 21: distance=15.632757 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=18.018776 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 4070 	 4104
+Receive agent 1: distance=15.189676 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 27599 	 27628
+Receive agent 20: distance=13.855567 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.263371 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.557792 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -26326 	 -26305
+Receive agent 1: distance=11.570471 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -26138 	 -26116
+Receive agent 1: distance=11.583150 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25950 	 -25928
+Receive agent 1: distance=11.621187 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25385 	 -25363
+Receive agent 1: distance=11.633866 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25197 	 -25175
+Receive agent 20: distance=13.936369 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.646545 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25009 	 -24987
+Receive agent 1: distance=11.608508 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25573 	 -25552
+Receive agent 1: distance=11.646545 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25009 	 -24987
+Receive agent 1: distance=11.773335 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -23126 	 -23104
+Receive agent 1: distance=11.608508 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25573 	 -25552
+Receive agent 1: distance=11.925485 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -20867 	 -20845
+Receive agent 20: distance=15.018981 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.583150 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25950 	 -25928
+Receive agent 1: distance=11.583150 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25950 	 -25928
+Receive agent 1: distance=11.722619 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -23879 	 -23857
+Receive agent 1: distance=10.068884 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31929 	 -31879
+Receive agent 1: distance=11.487763 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17771 	 -17714
+Receive agent 21: distance=14.132517 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.837508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24260 	 -24206
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 21: distance=13.078954 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 20: distance=13.613163 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.976769 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.849741 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24138 	 -24084
+Receive agent 1: distance=11.621187 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16440 	 -16382
+Receive agent 21: distance=13.774766 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=14.132517 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=12.936086 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -5862 	 -5837
+Receive agent 1: distance=10.175231 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 18682 	 18701
+Receive agent 1: distance=11.235725 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -31108 	 -31087
+Receive agent 1: distance=21.963917 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -2889 	 -2848
+Receive agent 1: distance=10.416284 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 22261 	 22280
+Receive agent 20: distance=16.405909 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=9.666398 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 11126 	 11144
+Receive agent 1: distance=9.926207 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 14984 	 15003
+Receive agent 1: distance=9.896084 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 14537 	 14555
+Receive agent 20: distance=16.497082 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=15.189676 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 27599 	 27628
+Receive agent 1: distance=15.189676 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 27599 	 27628
+Receive agent 1: distance=10.678492 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -25847 	 -25793
+Receive agent 1: distance=8.520967 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.504824 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.526732 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.530191 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.936085 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.041097 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.013723 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.024053 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.612062 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.540569 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.546335 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.421223 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.545182 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.409860 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.561326 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.263698 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.266796 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=8.522120 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.430605 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.272753 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.881022 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.516355 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.517508 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.620134 	 direction=2.617994 	 receivingSensor=4
+Receive agent 20: distance=8.180028 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=8.519814 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.517508 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.527885 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=10.309937 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.254639 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.520967 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=9.926207 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.888554 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.545182 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=9.862196 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.960094 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.967626 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.522120 	 direction=0.8726Receive agent 20: distance=9.922441 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.520967 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.514049 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=11.836731 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=12.872992 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=12.114479 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=12.130924 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.526732 	 direction=Receive agent 1: distance=8.504824 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.514049 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.531344 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.516355 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=12.311828 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.515202 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=13.895968 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.504824 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.519814 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.587847 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.505977 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.529038 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.544029 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.044712 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.067437 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.098425 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.071053 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.110821 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=8.189325 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.167116 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.096876 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.048843 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.540569 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.583235 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.522120 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.530191 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=10.910901 	 direction=2.617994 	 receivingSensor=4
+Receive agent 20: distance=15.496927 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=8.527885 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.541722 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.519814 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=9.407315 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.404727 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.511742 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.555560 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.712382 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.593613 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.534804 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=9.246876 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=9.267577 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.540569 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=8.555560 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 21: distance=8.512896 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.564785 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.579775 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.630512 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=9.127839 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 24217 	 24262
+Receive agent 20: distance=9.202884 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.933738 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.073497 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.161480 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=7.871424 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.874920 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stopReceive agent 1: distance=12.081588 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -18549 	 -18526
+Receive agent 1: distance=12.130924 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -17817 	 -17794
+Receive agent 1: distance=11.087978 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 32234 	 32255
+Receive agent 1: distance=10.083064 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 17332 	 17313
+Receive agent 1: distance=18.818575 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 15945 	 15981
+Receive agent 1: distance=15.360372 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 30134 	 30163
+Receive agent 20: distance=13.194214 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=11.087978 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 32234 	 32255
+Receive agent 1: distance=7.951130 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.915472 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.896595 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.874920 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.928407 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.931553 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.915123 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=10.984294 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 30694 	 30715
+Receive agent 1: distance=11.519754 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -26891 	 -26870
+Receive agent 20: distance=17.636190 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=16.782461 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -14287 	 -14255
+Receive agent 20: distance=12.851960 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.218343 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -31345 	 -31366
+Receive agent 1: distance=11.735298 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -23691 	 -23669
+Receive agent 20: distance=15.121398 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=11.862089 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21808 	 -21786
+Receive agent 1: distance=13.009797 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -4767 	 -4743
+Receive agent 1: distance=11.400853 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -28657 	 -28635
+Receive agent 1: distance=11.061906 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 31868 	 31847
+Receive agent 1: distance=11.836731 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -22162 	 -22185
+Receive agent 1: distance=11.824052 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -22351 	 -22373
+Receive agent 1: distance=14.234610 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 13446 	 13419
+Receive agent 1: distance=15.189676 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 27628 	 27600
+Receive agent 1: distance=10.033436 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 16576 	 16595
+Receive agent 1: distance=7.940992 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.500000 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.500000 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.913374 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.906733 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.500000 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.947983 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.934000 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.929455 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=7.938195 	 direction=0.872665 	 receivingSensor=6
+Arrive destination, stop!
+Receive agent 1: distance=9.519549 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 28125 	 28173
+Receive agent 1: distance=9.120076 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 1: distance=9.495298 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 27883 	 27931
+Receive agent 1: distance=8.411926 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1354 	 -1299
+Receive agent 1: distance=8.051426 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=9.801950 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 30943 	 30992
+Receive agent 1: distance=10.182321 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30797 	 -30747
+Receive agent 20: distance=15.394510 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.302847 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 20576 	 20596
+Receive agent 1: distance=9.790654 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1358 	 -1295
+Receive agent 20: distance=15.189676 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.574010 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1354 	 -1299
+Receive agent 20: distance=15.121398 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=8.563632 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1354 	 -1299
+Receive agent 1: distance=8.632818 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1298
+Receive agent 1: distance=8.990280 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 1: distance=8.923401 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1355 	 -1297
+Receive agent 1: distance=8.998352 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 1: distance=8.040580 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.092228 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.049360 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=12.048696 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19037 	 -19015
+Receive agent 1: distance=9.753001 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 12431 	 12412
+Receive agent 20: distance=11.357399 	 direction=1.570796 	 receivingSensor=5
+Receive agent 0: distance=8.505977 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.387924 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -28746 	 -28694
+Receive agent 20: distance=11.087978 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=11.988880 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.359566 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -29029 	 -28977
+Receive agent 1: distance=8.721607 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -2902 	 -2886
+Receive agent 20: distance=13.734365 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=12.620615 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=18.818575 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 15945 	 15981
+Receive agent 20: distance=9.283104 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=18.818575 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 15945 	 15981
+Receive agent 20: distance=9.564734 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=11.621187 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25385 	 -25363
+Receive agent 1: distance=10.231950 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 19524 	 19543
+Receive agent 1: distance=9.636275 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 10679 	 10697
+Receive agent 1: distance=19.746660 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 29725 	 29762
+Receive agent 1: distance=9.617449 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 29102 	 29150
+Receive agent 20: distance=15.835133 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=9.083848 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 20: distance=15.018981 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=9.086435 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 1: distance=9.099375 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 1: distance=9.078672 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 1: distance=9.089024 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1356 	 -1297
+Receive agent 21: distance=11.053215 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=10.592866 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=9.055383 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 2054 	 2071
+Receive agent 1: distance=9.156304 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 3553 	 3570
+Receive agent 1: distance=21.641752 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -7673 	 -7632
+Receive agent 1: distance=9.911145 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 14760 	 14779
+Receive agent 1: distance=9.658867 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 11015 	 11033
+Receive agent 1: distance=17.350723 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -5850 	 -5817
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=16.314734 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21232 	 -21201
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=16.497082 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -18524 	 -18493
+Receive agent 1: distance=16.314734 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21232 	 -21201
+Receive agent 1: distance=16.314734 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21232 	 -21201
+Receive agent 1: distance=11.912806 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -21055 	 -21033
+Receive agent 1: distance=12.443394 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -8236 	 -8174
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=11.912806 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -21033 	 -21055
+Receive agent 1: distance=13.613163 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 4217 	 4192
+Receive agent 1: distance=16.223558 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -22555 	 -22585
+Receive agent 1: distance=18.259508 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 7644 	 7678
+Receive agent 1: distance=21.963917 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -2848 	 -2889
+Receive agent 1: distance=13.572762 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 3592 	 3617
+Receive agent 1: distance=15.394510 	 direction=5.986479 	 receivingSensor=0
+Setting speed: 30670 	 30641
+Receive agent 1: distance=19.746660 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 29725 	 29762
+Receive agent 1: distance=16.405909 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -19878 	 -19847
+Receive agent 1: distance=14.081470 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 11145 	 11171
+Receive agent 1: distance=11.479073 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17858 	 -17801
+Receive agent 1: distance=9.783124 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 30755 	 30804
+Receive agent 1: distance=9.430605 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1357 	 -1296
+Receive agent 1: distance=8.181062 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.187776 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.189841 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.186743 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.198622 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.186226 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.181062 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.185710 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.188292 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.182611 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.187776 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=8.185193 	 direction=1.570796 	 receivingSensor=5
+Setting speed: -1353 	 -1300
+Receive agent 1: distance=11.950843 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -20490 	 -20468
+Receive agent 1: distance=8.503671 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -6138 	 -6122
+Receive agent 1: distance=15.121398 	 direction=0.872665 	 receivingSensor=6
+Setting speed: 18486 	 18562
+Receive agent 1: distance=19.746660 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 29725 	 29762
+Receive agent 20: distance=19.363441 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=16.501406 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -18460 	 -18429
+Receive agent 1: distance=16.501406 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -18460 	 -18429
+Receive agent 1: distance=16.501406 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -18460 	 -18429
+Receive agent 1: distance=16.782461 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -14287 	 -14255
+Receive agent 1: distance=16.132385 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -23939 	 -23909
+Receive agent 1: distance=17.350723 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -5850 	 -5817
+Receive agent 1: distance=10.580634 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -26823 	 -26770
+Receive agent 20: distance=12.515458 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=11.697261 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=14.438795 	 direction=0.296706 	 receivingSensor=7
+Receive agent 1: distance=10.519474 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 23793 	 23812
+Receive agent 20: distance=8.815008 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=8.817315 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=8.621287 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.402104 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 22050 	 22070
+Receive agent 20: distance=8.996046 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=8.899185 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.898669 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 29423 	 29443
+Receive agent 1: distance=12.196708 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -10697 	 -10636
+Receive agent 1: distance=10.182321 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30797 	 -30747
+Receive agent 20: distance=15.632757 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.776348 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24870 	 -24816
+Receive agent 20: distance=15.700215 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23839
+Receive agent 1: distance=10.125603 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31363 	 -31313
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.189410 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30727 	 -30676
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.972062 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22917 	 -22862
+Receive agent 1: distance=10.097243 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31646 	 -31596
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 20: distance=16.132385 	 direction=2.617994 	 receivingSensor=4
+Receive agent 20: distance=16.922991 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 1: distance=10.972062 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22917 	 -22862
+Receive agent 20: distance=16.922991 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=10.923134 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23405 	 -23351
+Receive agent 20: distance=16.223558 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 20: distance=15.767674 	 direction=2.617994 	 receivingSensor=4
+Receive agent 21: distance=8.650115 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.012166 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32495 	 -32445
+Receive agent 1: distance=10.182321 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30797 	 -30747
+Receive agent 1: distance=10.189410 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30727 	 -30676
+Receive agent 1: distance=10.923134 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23405 	 -23351
+Receive agent 61: distance=11.633866 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.033436 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32283 	 -32233
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.923134 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23405 	 -23351
+Receive agent 1: distance=10.996526 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22673 	 -22618
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.861973 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24016 	 -23962
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.923134 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23405 	 -23351
+Receive agent 20: distance=13.148109 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 21: distance=13.309474 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=13.102006 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.111423 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31505 	 -31455
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 20: distance=12.229599 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.008803 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.189410 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30727 	 -30676
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23839
+Receive agent 1: distance=10.849741 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24138 	 -24084
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 1: distance=10.224859 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30373 	 -30322
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.996526 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22673 	 -22618
+Receive agent 1: distance=10.972062 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22917 	 -22862
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 1: distance=10.972062 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22917 	 -22862
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23839
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.910901 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23527 	 -23473
+Receive agent 21: distance=15.565299 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.923134 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23405 	 -23351
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.019256 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32425 	 -32375
+Receive agent 1: distance=10.996526 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22673 	 -22618
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.005076 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32566 	 -32516
+Receive agent 21: distance=10.837508 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.972062 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22917 	 -22862
+Receive agent 20: distance=9.978922 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.277928 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=8.821927 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.972062 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22917 	 -22862
+Receive agent 20: distance=8.836918 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.850755 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.947616 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.514049 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=10.246129 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=10.849741 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.935366 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23283 	 -23229
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 21: distance=9.628744 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=10.324117 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=11.009760 	 direction=2.617994 	 receivingSensor=4
+Receive agent 20: distance=11.218343 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=10.849741 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24138 	 -24084
+Receive agent 20: distance=9.722878 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.749235 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=8.565938 	 direction=1.570796 	 receivingSensor=5
+Receive agent 21: distance=10.605099 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=9.557203 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.947598 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23161 	 -23107
+Receive agent 20: distance=16.314734 	 direction=2.617994 	 receivingSensor=4
+Receive agent 1: distance=10.861973 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24016 	 -23962
+Receive agent 20: distance=9.197708 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.205471 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=10.519474 	 direction=0.872665 	 receivingSensor=6
+Receive agent 1: distance=10.019256 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32425 	 -32375
+Receive agent 1: distance=10.224859 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30373 	 -30322
+Receive agent 21: distance=8.057107 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.242005 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=8.042645 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 21: distance=8.481133 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.996526 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22673 	 -22618
+Receive agent 1: distance=10.959829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23039 	 -22985
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 20: distance=11.061906 	 direction=1.570796 	 receivingSensor=5
+Receive agent 10: distance=10.984294 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.005076 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32566 	 -32516
+Receive agent 21: distance=10.345386 	 direction=1.570796 	 receivingSensor=5
+Receive agent 133: distance=9.572265 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.019256 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -32425 	 -32375
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 20: distance=9.045032 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=9.195121 	 direction=0.872665 	 receivingSensor=6
+Receive agent 20: distance=11.532434 	 direction=0.872665 	 receivingSensor=6
+Receive agent 21: distance=9.602387 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.086435 	 direction=1.570796 	 receivingSensor=5
+Receive agent 20: distance=9.021742 	 direction=1.570796 	 receivingSensor=5
+Receive agent 1: distance=10.161052 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31010 	 -30959
+Receive agent 1: distance=10.849741 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24138 	 -24084
+Receive agent 1: distance=10.788580 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24748 	 -24694
+Receive agent 1: distance=10.825276 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24382 	 -24328
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 1: distance=10.813045 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24504 	 -24450
+Receive agent 1: distance=10.825276 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24382 	 -24328
+Receive agent 1: distance=10.764116 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24992 	 -24938
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23839
+Receive agent 1: distance=10.776348 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24870 	 -24816
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23839
+Receive agent 1: distance=10.813045 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24504 	 -24450
+Receive agent 1: distance=10.813045 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24504 	 -24450
+Receive agent 1: distance=10.861973 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24016 	 -23962
+Receive agent 1: distance=10.837508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24260 	 -24206
+Receive agent 1: distance=10.083064 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31788 	 -31738
+Receive agent 1: distance=10.153962 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31080 	 -31030
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.984294 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -22795 	 -22740
+Receive agent 1: distance=10.886437 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23772 	 -23717
+Receive agent 1: distance=10.153962 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31080 	 -31030
+Receive agent 1: distance=10.132692 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31293 	 -31242
+Receive agent 1: distance=10.837508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24260 	 -24206
+Receive agent 1: distance=10.739652 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -25236 	 -25183
+Receive agent 1: distance=10.849741 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24138 	 -24084
+Receive agent 1: distance=10.168141 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30939 	 -30888
+Receive agent 1: distance=10.874205 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23894 	 -23839
+Receive agent 1: distance=10.898669 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -23650 	 -23595
+Receive agent 1: distance=10.837508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24260 	 -24206
+Receive agent 1: distance=10.800813 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -24626 	 -24572
+Receive agent 1: distance=11.836731 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -22185 	 -22163
+Receive agent 1: distance=13.613163 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 4192 	 4217
+Receive agent 1: distance=18.818575 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 15945 	 15981
+Receive agent 1: distance=12.641646 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -6258 	 -6195
+Receive agent 1: distance=11.633866 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16314 	 -16256
+Receive agent 1: distance=11.583150 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16820 	 -16762
+Receive agent 1: distance=11.621187 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16440 	 -16382
+Receive agent 1: distance=11.671903 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -15934 	 -15876
+Receive agent 1: distance=11.633866 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16314 	 -16256
+Receive agent 1: distance=11.976201 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -12898 	 -12838
+Receive agent 1: distance=10.246129 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30161 	 -30110
+Receive agent 1: distance=11.697261 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -15681 	 -15623
+Receive agent 1: distance=11.621187 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16440 	 -16382
+Receive agent 1: distance=11.671903 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -15934 	 -15876
+Receive agent 1: distance=11.735298 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -15301 	 -15243
+Receive agent 1: distance=11.862089 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -14036 	 -13977
+Receive agent 1: distance=11.659224 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16061 	 -16002
+Receive agent 1: distance=11.659224 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16061 	 -16002
+Receive agent 1: distance=11.583150 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16820 	 -16762
+Receive agent 1: distance=11.557792 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -17073 	 -17015
+Receive agent 1: distance=11.570471 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16946 	 -16888
+Receive agent 1: distance=11.659224 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16061 	 -16002
+Receive agent 1: distance=11.608508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16567 	 -16509
+Receive agent 1: distance=11.583150 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16820 	 -16762
+Receive agent 1: distance=11.608508 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16567 	 -16509
+Receive agent 1: distance=11.621187 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16440 	 -16382
+Receive agent 1: distance=11.646545 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16187 	 -16129
+Receive agent 1: distance=11.595829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16693 	 -16635
+Receive agent 1: distance=11.621187 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16440 	 -16382
+Receive agent 1: distance=11.595829 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16693 	 -16635
+Receive agent 1: distance=11.583150 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -16820 	 -16762
+Receive agent 1: distance=17.350723 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -5850 	 -5817
+Receive agent 1: distance=21.641752 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -7673 	 -7632
+Receive agent 1: distance=16.501406 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -18429 	 -18460
+Receive agent 1: distance=12.599584 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -10834 	 -10858
+Receive agent 1: distance=11.209652 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -31495 	 -31475
+Receive agent 1: distance=12.978148 	 direction=5.986479 	 receivingSensor=0
+Setting speed: -5213 	 -5237
+Receive agent 1: distance=10.402104 	 direction=0.296706 	 receivingSensor=7
+Setting speed: 22050 	 22070
+Receive agent 1: distance=11.608508 	 direction=0.296706 	 receivingSensor=7
+Setting speed: -25573 	 -25552
+Receive agent 1: distance=10.189410 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30727 	 -30676
+Receive agent 1: distance=10.260308 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30019 	 -29968
+Receive agent 1: distance=10.253219 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30090 	 -30039
+Receive agent 1: distance=10.253219 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30090 	 -30039
+Receive agent 1: distance=10.224859 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30373 	 -30322
+Receive agent 1: distance=10.210680 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30514 	 -30464
+Receive agent 1: distance=10.224859 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30373 	 -30322
+Receive agent 1: distance=10.139782 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -31222 	 -31171
+Receive agent 1: distance=10.387924 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -28746 	 -28694
+Receive agent 1: distance=10.260308 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30019 	 -29968
+Receive agent 1: distance=10.196501 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -30656 	 -30605
+Receive agent 1: distance=10.458822 	 direction=0.872665 	 receivingSensor=6
+Setting speed: -28038 	 -27986
