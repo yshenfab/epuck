@@ -28,6 +28,7 @@
 #include <bluetooth/rfcomm.h>
 #include <bluetooth/hci.h>
 #include <bluetooth/hci_lib.h>
+#include<fstream>
 
 unsigned int crc16(char *data_p, unsigned int length);
 void connect_to_epuck(int sock);
@@ -276,17 +277,31 @@ int main(int argc, char **argv)
 
 
     // read message from e-puck, if any
-    
+    std::ofstream myfile;
+    myfile.open ("./data.txt");
     while(1)
     {
+	int j=0;
 	for (i = 0; i < argc - 1; i++)
 	{
 	    int n = read_from_epuck(socket[i][1], buf, sizeof(buf));
 	    buf[n] = '\0';
 	    if (n > 0)
+	    {
 		std::cout << buf;
+		myfile << buf;
+	    }
+	    
 	}
 	usleep(2500);
+	if(j<300)
+	    j++;
+	else
+	{
+	    std::cout << "stop receiving" << std::endl;
+	    myfile.close();
+	    break;
+	}
     }
 
     for (i = 0; i < argc - 1; i++)

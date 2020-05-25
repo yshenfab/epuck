@@ -1,7 +1,7 @@
 # EXE MAKEFILE
 #------------------------------
 ROOT = ../..
-EXE_TARGET = ircomTest
+EXE_TARGET = sync
 
 LIBS = -lIrcom -lBtcom -lE-puck -lm
 INCS =

@@ -34,8 +34,7 @@
 #include <btcom.h>
 #include <math.h>
 
-/* float sensorDir[NB_IR_SENSORS] = {0.2967, 0.8727, 1.5708, 2.6180, 3.6652, 4.7124, 5.4105, 5.9865}; */
-float sensorDir[8] = {0.2967, 0.8727, 1.5708, 2.6180, 3.6652, 4.7124, 5.4105, 5.9865};
+float sensorDir[NB_IR_SENSORS] = {0.2967, 0.8727, 1.5708, 2.6180, 3.6652, 4.7124, 5.4105, 5.9865};
 
 int getselector()
 {
@@ -43,160 +42,6 @@ int getselector()
 }
 
 void obstacleAvoidance();
-
-// cycling test
-/* void cycling() */
-/* { */
-/*     e_set_speed_left(350); */
-/*     e_set_speed_right(500); */
-/* } */
-
-
-// formation
-#define PI 3.1415926
-#define DTR 0.017453 // degree to radian
-#define ratio 7763.66 // 1000 / 0.041 / 2 / PI
-const double safeDist = 0.13;
-// destination
-const double dest_range = 10.0;
-double dest_bearing = 45.0 * DTR;
-/* const double dest_bearing2 = 315.0 * DTR; */
-const double vspeed = 0.0;
-
-// leader
-void goStaright()
-{
-    e_set_speed_left(vspeed);
-    e_set_speed_right(vspeed);
-}
-
-void veloFormation(IrcomMessage imsg)
-{
-    if((int)imsg.value == 1) // see leader
-    {
-	double term_bearing;
-	double phi_d;
-	// get actual range and bearing
-	double l = (double)imsg.distance; // actual range
-	double phi = (double)imsg.direction; // actual bearing
-	if(phi > PI) // leader on the right: pi to 2pi
-	{
-	    term_bearing = 315 * DTR;
-	    phi -= 2*PI;
-	}
-	else // leader on the left: 0 to pi
-	{
-	    term_bearing = 45 * DTR;
-	}
-
-	phi_d = term_bearing; // radians
-	
-	if(l < safeDist*100 && fabs(phi-term_bearing) < 20*DTR)
-	{
-	    char arr[100];
-	    sprintf(arr, "Arrive destination, stop!\n");
-	    btcomSendString(arr);
-	    e_set_speed_left(0);
-	    e_set_speed_right(0);
-	    return;
-	}
-	
-	double d = 0.2;
-	double a=0.4, b=0.6;
-	double k1=2, k2=2, k3=1.4;
-	double forward_speed, turn_speed;
-	double alpha = 0.0;
-	
-	double l_d = 1.5 * safeDist;
-	// double w_l = getHeading() - getLastHeading();
-	double w_l = 0.0;
-	double v_l = 0.02;
-	/* double v_l = vspeed; */
-	double xel = l*cos(phi+alpha) - l_d*cos(phi_d);
-	double yel = l*sin(phi+alpha) - l_d*sin(phi_d);
-	double xe = cos(alpha)*xel + sin(alpha)*yel;
-	double ye = -sin(alpha)*xel + cos(alpha)*yel;
-	double sol_turn_speed = w_l + v_l*(k2*a*(ye+d*sin(alpha)+k3*alpha)) + b/k3*sin(alpha);
-	forward_speed = v_l*cos(alpha) + k1*(xe-d*(1-cos(alpha))) - k3*alpha*sol_turn_speed;
-	turn_speed = sol_turn_speed;
-	int v_right = (int)((forward_speed + 0.5*turn_speed*0.053)*ratio);
-	int v_left = (int)((forward_speed -  0.5*turn_speed*0.053)*ratio);
-	/* int v_right = int((2*forward_speed + 0.053*turn_speed) * 0.5 * ratio); */
-	/* int v_left = int((2*forward_speed - v_right) * ratio); */
-	/* e_set_speed(forward_speed, turn_speed); */
-	char tmp[128];
-	sprintf(tmp, "Setting speed: %d \t %d\n", v_left, v_right);
-	btcomSendString(tmp);
-	e_set_speed_left(v_left);
-	e_set_speed_right(v_right);
-	// send id + can't see/on leader's left/on leader's right
-	// 20: can't see, 21: left, 22: right
-	if(phi > 0) // on leader's left
-	{
-	    ircomSend(21);
-	    while (ircomSendDone() == 0);
-	}
-	else // on leader's right
-	{
-	    ircomSend(22);
-	    while (ircomSendDone() == 0);
-	}
-    }
-    else // see follower
-    {
-	e_set_speed_left(0);
-	e_set_speed_right(0);
-	ircomSend(20);
-	while (ircomSendDone() == 0);
-    }
-}
-
-void posFormation(IrcomMessage imsg)
-{    
-    if((int)imsg.value == 1) // see leader
-    {
-	// get actual range and bearing
-	double range = (double)imsg.distance;
-	double bearing = (double)imsg.direction;
-	if(bearing > 180*DTR) // on the right
-	    bearing -= 2*PI;
-
-	double delta_x = range*cos(bearing) - dest_range*cos(dest_bearing);
-	double delta_y = range*sin(bearing) - dest_range*sin(dest_bearing);
-	double dist = sqrt(delta_x*delta_x + delta_y*delta_y);
-	double angle = atan(delta_y / delta_x);
-
-	e_set_speed((int)dist, (int)angle);
-	/* double v_left, v_right; */
-	/* e_set_speed_left(v_left); */
-	/* e_set_speed_right(v_right); */
-	char tmp[128];
-	sprintf(tmp, "Setting speed: %d \t %d\n", (int)dist, (int)angle);
-	btcomSendString(tmp);
-	// send id + can't see/on leader's left/on leader's right
-	// 20: can't see, 21: left, 22: right
-	/* int j; */
-	/* for(j=0; j<200000; ++j) */
-	/* 	asm("nop"); */
-	/* if(imsg.direction > 0) // on leader's left */
-	/* { */
-	/*     ircomSend(21); */
-	/*     while (ircomSendDone() == 0); */
-	/* } */
-	/* else // on leader's right */
-	/* { */
-	/*     ircomSend(22); */
-	/*     while (ircomSendDone() == 0); */
-	/* } */
-    }
-    else // see follower
-    {
-	e_set_speed_left(0);
-	e_set_speed_right(0);
-	ircomSend(20);
-	while (ircomSendDone() == 0);
-    }
-}
 
 int main()
 {
@@ -228,84 +73,69 @@ int main()
     for (i = 0; i < selector; i++)
     {
 	e_led_clear();
+	
 	for(j = 0; j < 200000; j++)
 	    asm("nop");
+	
 	e_set_led(i%8, 1);
+	
 	for(j = 0; j < 300000; j++)
 	    asm("nop");
+
 	e_led_clear();
+
 	for(j = 0; j < 300000; j++)
 	    asm("nop");
     }
 
-    // acting as leader
+    // activate obstacle avoidance
+    e_activate_agenda(obstacleAvoidance, 10000);
+
+    // acting as sender
     if (selector == 1)
     {    	
-	btcomSendString("==== Leader ====\n\n");
-	// e_activate_agenda(goStaright, 10000);
+	btcomSendString("==== EMITTER ====\n\n");
 
-	while(1)
+	int i;
+	for (i = 0; i < 10000; i++)
 	{
 	    // takes ~15knops for a 32window, avoid putting messages too close...
-	    for(j = 0; j < 200000; j++)
-		asm("nop");
+	    for(j = 0; j < 200000; j++)	asm("nop");
 
-	    // brocast id
-	    // role: leader: 1, follower: 2
-	    btcomSendString("Broadcasting...");
-	    ircomSend(1);
+	    ircomSend(i % 256);	    
 	    while (ircomSendDone() == 0);
 
 	    btcomSendString(".");
 	}
     }
-    // acting as follower
+    
+    // acting as receiver
     else if (selector == 2)
     {
-	btcomSendString("==== Follower, posFormation ====\n\n");
-	while(1)
+	btcomSendString("==== RECEIVER ====\n\n");
+
+	int i = 0;
+	while (i < 200)
 	{
+	    // ircomListen();
 	    IrcomMessage imsg;
 	    ircomPopMessage(&imsg);
-	    if(imsg.error == 0)
+	    if (imsg.error == 0)
 	    {
+		int val = (int) imsg.value;
+	    
+		/* Send Value*/		
 		char tmp[128];
-		sprintf(tmp, "Receive agent %d: distance=%f \t direction=%f \t receivingSensor=%d\n", (int)imsg.value, (double)imsg.distance, (double)imsg.direction, (int)imsg.receivingSensor);
+		sprintf(tmp, "Receive successful : %d  - distance=%f \t direction=%f \n", val, (double)imsg.distance, (double)imsg.direction);
 		btcomSendString(tmp);
-		if((double)imsg.distance < safeDist*100 && fabs((double)imsg.direction-0.785)<0.35) // arrive dest
-		{
-		    char* arr = "Arrive destination, stop!";
-		    btcomSendString(arr);
-		    e_set_speed_left(0);
-		    e_set_speed_right(0);
-		    break;
-		}
-		else // process msg
-		    posFormation(imsg);
 	    }
-	    /* for(j = 0; j < 200000; j++) */
-	    /* 	asm("nop"); */
-	    /* ircomSend(); */
-	}
-    }
-    else if (selector == 3)
-    {
-	btcomSendString("==== Follower, veloFormation ====\n\n");
-	while(1)
-	{
-	    IrcomMessage imsg;
-	    ircomPopMessage(&imsg);
-	    if(imsg.error == 0)
+	    else if (imsg.error > 0)
 	    {
-		char tmp[128];
-		sprintf(tmp, "Receive agent %d: distance=%f \t direction=%f \t receivingSensor=%d\n", (int)imsg.value, (double)imsg.distance, (double)imsg.direction, (int)imsg.receivingSensor);
-		btcomSendString(tmp);
-		
-		veloFormation(imsg); // process msg
+		btcomSendString("Receive failed \n");		
 	    }
-	    /* for(j = 0; j < 200000; j++) */
-	    /* 	asm("nop"); */
-	    /* ircomSend(); */
+	    // else imsg.error == -1 -> no message available in the queue
+
+	    if (imsg.error != -1) i++;
 	}
     }
     // no proper role defined...
@@ -398,4 +228,3 @@ void obstacleAvoidance()
     // advertise obstacle avoidance in progress
     // return 1;
 }
-
