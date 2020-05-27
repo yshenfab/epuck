@@ -6,6 +6,7 @@
 - sudo rfcomm bind /dev/rfcomm3 10:00:E8:D3:AA:30
 - sudo rfcomm bind /dev/rfcomm4 10:00:E8:AB:80:B8
 - sudo rfcomm bind /dev/rfcomm5 10:00:E8:6C:89:37
+- sudo rfcomm bind /dev/rfcomm6 10:00:E8:6C:89:40
 *** device list
 modify /etc/bluetooth/rfcomm.conf
 - rfcomm1{device 10:00:E8:D3:AA:48;} # 2996
@@ -13,6 +14,7 @@ modify /etc/bluetooth/rfcomm.conf
 - rfcomm3{device 10:00:E8:D3:AA:30;} # 3500
 - rfcomm4{device 10:00:E8:AB:80:B8;} # 3636
 - rfcomm5{device 10:00:E8:6C:89:37;} # 3679
+- rfcomm6{device 10:00:E8:6C:89:40;} # 3680
 ** process
 moprobe btusb
 systemctl start bluetooth.service
@@ -63,3 +65,10 @@ Bind paired device MAC address to tty terminal:
 ** bootloader
 - refer to directory epuck-bootloader-linux
 - ./epuckuploadbt firmware.hex 3689
+** other
+- http://www.e-puck.org/index.php?option=com_content&view=article&id=32&Itemid=28
+- http://www.e-puck.org/index.php?option=com_content&view=article&id=18&Itemid=24
+- https://github.com/gctronic/e-puck-library
+- https://github.com/gctronic/epuck_driver
+- https://www.gctronic.com/doc/index.php?title=E-Puck
+- https://www.gctronic.com/doc/index.php/E-Puck#ROS
