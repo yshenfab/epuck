@@ -7,12 +7,14 @@
 
 * rfcomm
 ** rfcomm bind
-- sudo rfcomm bind /dev/rfcomm1 10:00:E8:D3:AA:48
-- sudo rfcomm bind /dev/rfcomm2 10:00:E8:D3:AA:C1
-- sudo rfcomm bind /dev/rfcomm3 10:00:E8:D3:AA:30
-- sudo rfcomm bind /dev/rfcomm4 10:00:E8:AB:80:B8
-- sudo rfcomm bind /dev/rfcomm5 10:00:E8:6C:89:37
-- sudo rfcomm bind /dev/rfcomm6 10:00:E8:6C:89:40
+#+BEGIN_SRC shell
+  sudo rfcomm bind /dev/rfcomm1 10:00:E8:D3:AA:48
+  sudo rfcomm bind /dev/rfcomm2 10:00:E8:D3:AA:C1
+  sudo rfcomm bind /dev/rfcomm3 10:00:E8:D3:AA:30
+  sudo rfcomm bind /dev/rfcomm4 10:00:E8:AB:80:B8
+  sudo rfcomm bind /dev/rfcomm5 10:00:E8:6C:89:37
+  sudo rfcomm bind /dev/rfcomm6 10:00:E8:6C:89:40
+#+END_SRC
 ** device list
 modify /etc/bluetooth/rfcomm.conf
 - rfcomm1{device 10:00:E8:D3:AA:48;} # 2996
