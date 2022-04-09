@@ -1,13 +1,19 @@
-* E-Puck
-** epuck rfcomm
-*** rfcomm bind
+#+TITLE: E-Puck
+
+* Website
+- http://www.gctronic.com/doc/index.php?title=E-Puck
+- http://www.e-puck.org/
+- http://www.e-puck.org/index.php?option=com_content&view=article&id=22&Itemid=13
+
+* rfcomm
+** rfcomm bind
 - sudo rfcomm bind /dev/rfcomm1 10:00:E8:D3:AA:48
 - sudo rfcomm bind /dev/rfcomm2 10:00:E8:D3:AA:C1
 - sudo rfcomm bind /dev/rfcomm3 10:00:E8:D3:AA:30
 - sudo rfcomm bind /dev/rfcomm4 10:00:E8:AB:80:B8
 - sudo rfcomm bind /dev/rfcomm5 10:00:E8:6C:89:37
 - sudo rfcomm bind /dev/rfcomm6 10:00:E8:6C:89:40
-*** device list
+** device list
 modify /etc/bluetooth/rfcomm.conf
 - rfcomm1{device 10:00:E8:D3:AA:48;} # 2996
 - rfcomm2{device 10:00:E8:D3:AA:C1;} # 3542
@@ -15,23 +21,24 @@ modify /etc/bluetooth/rfcomm.conf
 - rfcomm4{device 10:00:E8:AB:80:B8;} # 3636
 - rfcomm5{device 10:00:E8:6C:89:37;} # 3679
 - rfcomm6{device 10:00:E8:6C:89:40;} # 3680
-** process
-moprobe btusb
-systemctl start bluetooth.service
-sudo rfcomm bind /dev/rfcomm0 10:00:E8:6C:9A:76
-sudo rfcomm bind /dev/rfcomm1 10:00:E8:6C:9A:77
-sudo rfcomm bind /dev/rfcomm2 10:00:E8:D3:AA:48
-./epuckuploadbt firmware.hex 3689
-./epuckuploadbt firmware.hex 3702 (broken)
-./epuckuploadbt firmware.hex 3703 (broken)
-./epuckuploadbt firmware.hex 2996
-** website
-- http://www.gctronic.com/doc/index.php?title=E-Puck
-- http://www.e-puck.org/
-- http://www.e-puck.org/index.php?option=com_content&view=article&id=22&Itemid=13
-** bluetooth
-*** pair
-- moprobe btusb
+  
+* Procedure
+#+BEGIN_SRC shell
+  moprobe btusb
+  systemctl start bluetooth.service
+  sudo rfcomm bind /dev/rfcomm0 10:00:E8:6C:9A:76
+  sudo rfcomm bind /dev/rfcomm1 10:00:E8:6C:9A:77
+  sudo rfcomm bind /dev/rfcomm2 10:00:E8:D3:AA:48
+  ./epuckuploadbt firmware.hex 3689
+  ./epuckuploadbt firmware.hex 3702
+  ./epuckuploadbt firmware.hex 3703
+  ./epuckuploadbt firmware.hex 2996
+#+END_SRC
+
+* Bluetooth
+** pair
+#+BEGIN_SRC shell
+  moprobe btusb
   systemctl start bluetooth.service
   bluetoothctl
   (optional) select 10:00:E8:6C:9A:76
@@ -42,30 +49,39 @@ sudo rfcomm bind /dev/rfcomm2 10:00:E8:D3:AA:48
   pair 10:00:E8:6C:9A:76
   (if no pin code) trust 10:00:E8:6C:9A:76
   connect 10:00:E8:6C:9A:76
-*** bluetooth serial
+#+END_SRC
+
+** bluetooth serial
 Bind paired device MAC address to tty terminal:
-- sudo rfcomm bind /dev/rfcomm0 10:00:E8:6C:9A:76
+#+BEGIN_SRC shell
+  sudo rfcomm bind /dev/rfcomm0 10:00:E8:6C:9A:76
   sudo rfcomm bind /dev/rfcomm1 10:00:E8:6C:9A:77
   sudo rfcomm bind /dev/rfcomm2 10:00:E8:6C:89:41
-*** minicom
-- selector 3, then send cmd
-*** currently using
-10:00:E8:6C:9A:76 e-puck_3689
-10:00:E8:BE:1F:E3 e-puck_3705 (broken)
-10:00:E8:6C:9A:77 e-puck_3702 
-10:00:E8:6C:89:41 e-puck_3703 (broken)
-10:00:E8:D3:AA:48 e-puck_2996
-** libIrcom
+#+END_SRC
+
+** minicom
+selector 3, then send cmd
+
+** currently using
+1. 10:00:E8:6C:9A:76 e-puck_3689
+2. 10:00:E8:BE:1F:E3 e-puck_3705
+3. 10:00:E8:6C:9A:77 e-puck_3702
+4. 10:00:E8:6C:89:41 e-puck_3703
+5. 10:00:E8:D3:AA:48 e-puck_2996
+   
+* libIrcom
 - http://www.e-puck.org/index.php?option=com_content&view=article&id=32&Itemid=28
 - range and bearing
 - communicate and avoid obstacles
 - /home/yang/sustech/epuck/libIrcom-1.0.7/libIrcom-1.0.7/pc/ircomTest
 - edit /etc/bluetooth/rfcomm.conf
-  ./ircomTest NUM (NUM as 0,1,2 which correspond to rfcomm0,1,2 in /etc/bluetooth/rfcomm.conf)
-** bootloader
+- ./ircomTest NUM (NUM as 0,1,2 which correspond to rfcomm0,1,2 in /etc/bluetooth/rfcomm.conf)
+  
+* Bootloader
 - refer to directory epuck-bootloader-linux
 - ./epuckuploadbt firmware.hex 3689
-** other
+  
+* Other
 - http://www.e-puck.org/index.php?option=com_content&view=article&id=32&Itemid=28
 - http://www.e-puck.org/index.php?option=com_content&view=article&id=18&Itemid=24
 - https://github.com/gctronic/e-puck-library
